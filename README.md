@@ -1,0 +1,2 @@
+# CalculusGeogebra
+Support Geogebra files for Visualisation of mathematical aspects of Calculus (german Analysis). The support files are used to create GIF animations, are used as basic construction for GeogebraTube export or serve as basic collection for testing on your own Laptop, PC or mobile device. Download the whole ZIP or just single files. Remark: Geogebra files are itself ZIP files even if the extension is "ggb".
